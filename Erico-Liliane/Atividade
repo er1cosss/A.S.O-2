@@ -1,0 +1,19 @@
+Comandos usados
+
+1--> "mkdir" para criação das pastas com os nomes de alguns alunos
+
+2--> "pwd" mostrar o caminho do diretorio
+
+3--> "cp" para fazer uma copia do arquivo original para o repositorio que voce quiser
+
+4--> "mv" mover ou renomear o arquivo
+
+5--> "ln" cria links entre os arquivos hard ou soft link
+
+6--> "tar" cria, exibe ou extrai arquivos
+
+7--> "touch" para criar arquivo vazio
+
+8--> "nano" editar e criar um arquivo
+
+ 
