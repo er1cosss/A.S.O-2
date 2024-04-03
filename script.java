@@ -22,7 +22,6 @@ public class script {
        }	
     }
 
+}
 }	
-	
-po
 
